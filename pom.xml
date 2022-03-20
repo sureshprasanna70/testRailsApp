@@ -11,10 +11,10 @@
 
 	<scm>
 		<url>https://github.com/sureshprasanna70/testRailsApp.git</url>
-		<connection>scm:git:ssh://git@github.com:sureshprasanna70/testRailsApp.git</connection>
+		<connection>scm:git:git://github.com/sureshprasanna70/testRailsApp.git</connection>
+		<developerConnection>scm:git:git@github.com:sureshprasanna70/testRailsApp.git</developerConnection>
 
-		<developerConnection>scm:git:ssh://git@github.com:sureshprasanna70/testRailsApp.git</developerConnection>
-		<tag>release</tag> 
+		<tag>HEAD</tag> 
   	</scm>
 	<build>
 		<pluginManagement>
